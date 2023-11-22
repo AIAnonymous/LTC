@@ -1,5 +1,4 @@
 # Adapting LLM Agents Through Communication
-LTC
 
 
 This repo contains PyTorch implementation for paper: Adapting LLM Agents Through Communication
