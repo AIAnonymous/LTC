@@ -1,0 +1,33 @@
+gym>=0.26.2
+joblib>=1.2.0
+langchain>=0.0.162
+numpy>=1.24.1
+openai>=0.27.4
+python-dotenv>=1.0.0
+tenacity>=8.2.2
+tiktoken>=0.4.0
+#transformers>=4.28.1
+transformers>=4.30.2
+pandas>=1.5.3
+accelerate>=0.20.1
+fschat>=0.1.10
+jsonlines
+scikit-learn
+wikipedia
+peft>=0.4.0
+fire
+fairscale
+mdtex2html
+markdown
+pygments
+bitsandbytes
+loralib
+einops
+tqdm
+# alfworld
+# fast-downward @ https://github.com/MarcCote/downward/archive/faster_replan.zip
+# textworld @ https://github.com/MarcCote/TextWorld/archive/handcoded_expert_integration.zip
+
+# xformers >= 0.0.19
+# fastapi
+# vllm
