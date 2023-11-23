@@ -3,7 +3,9 @@
 
 This repo contains PyTorch implementation for paper: Adapting LLM Agents Through Communication
 
-
+<p align="center">
+  <img src="./overview.png" width="1000" title="Overview of Learning Through Communication Framework" alt="">
+</p>
 
 
 ## Environment 
